@@ -1,7 +1,7 @@
 # 🎮 Video Game Sales
 Esta é uma aplicação de conceitos iniciais estudados em Python para análise de vendas de jogos.
 
-[Clique aqui para acessar o projeto!]()
+[Clique aqui para acessar o projeto!](https://videogameglobalsales.streamlit.app)
 
 ---
 
